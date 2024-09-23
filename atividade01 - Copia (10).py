@@ -1,2 +1,5 @@
 print("Ola Mundo")
 print("de novo")
+print("de novo")
+print("de novo")
+print("de novo")
